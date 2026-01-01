@@ -34,7 +34,3 @@ I am a First-Year B.Tech CSE student passionate about building scalable web appl
 
 ---
 
-### 🧩 My Contributions
-<div align="center">
-  <img src="https://github.com/dhruv-gupta-dev/dhruv-gupta-dev/blob/output/github-contribution-grid-snake-dark.svg" width="100%" alt="snake animation" />
-</div>
