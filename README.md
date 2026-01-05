@@ -38,20 +38,25 @@ I am a First-Year B.Tech CSE student passionate about building scalable web appl
   <img src="https://raw.githubusercontent.com/dhruv-gupta-dev/dhruv-gupta-dev/output/github-contribution-grid-snake-dark.svg" alt="Snake Graph" />
 </div>
 
-<br/>
+---
 
-### 📊 GitHub Stats
+<h3 align="center">📊 My GitHub Stats</h3>
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=dhruv-gupta-dev&theme=tokyonight&hide_border=true" alt="Dhruv's Streak" />
   
-  <br/><br/>
+  ---
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhruv-gupta-dev&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" height="170" alt="Top Langs" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dhruv-gupta-dev&theme=tokyo-night" alt="Dhruv's Activity Graph" />
 </div>
 
 ---
 
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=dhruv-gupta-dev&label=PROFILE+VIEWS&style=for-the-badge&color=007BFF" alt="Profile Views" />
+</div>
+
+<br/>
 <div align="center">
   <a href="https://linkedin.com/in/YOUR-LINKEDIN">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
