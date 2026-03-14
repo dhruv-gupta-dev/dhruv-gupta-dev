@@ -11,7 +11,7 @@ I am a First-Year B.Tech CSE student passionate about building scalable web appl
 
 - 🔭 I built **[Roast My GitHub](https://github.com/dhruv-gupta-dev/roast-my-github)** (An AI-powered profile analyzer & roaster)
 - 🌱 I’m currently learning **Advanced Data Structures & Algorithms**
-- ⚡ Fun fact: I reached **2-Star (1443)** on CodeChef in my first year!
+- ⚡ Fun fact: I reached **3-Star (1630)** on CodeChef in my first year!
 - 💬 Ask me about **C++, MERN Stack (Mongo, Express, React, Node), and Git**
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/dhruvgupta-dev)
 
