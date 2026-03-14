@@ -14,9 +14,11 @@ I am a First-Year B.Tech CSE student passionate about building scalable web appl
 - ⚡ Fun fact: I reached **3-Star (1630)** on CodeChef in my first year!
 - 💬 Ask me about **C++, MERN Stack (Mongo, Express, React, Node), and Git**
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/dhruvgupta-dev)
-
 ---
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dhruvgupta-dev/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:heroicdhruv007@gmail.com)
+[![Twitter: dhruv-gupta-dev](https://img.shields.io/twitter/follow/dhruv-gupta-dev?style=social)](https://twitter.com/dhruv-gupta-dev)
+[![GitHub: Dhruv Gupta](https://img.shields.io/github/followers/dhruv-gupta-dev?label=follow&style=social)](https://github.com/dhruv-gupta-dev/)
 ### 🛠️ Languages & Tools
 
 | Category | Skills |
@@ -26,36 +28,42 @@ I am a First-Year B.Tech CSE student passionate about building scalable web appl
 | **Hosting & Tools** | ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Render](https://img.shields.io/badge/Render-%2346E3B7.svg?style=for-the-badge&logo=render&logoColor=white) |
 
 ---
+### 🌍 Open Source Contributions
+
+<img src="https://img.shields.io/badge/Contributor-OWASP%20Foundation-E10101?style=for-the-badge&logo=owasp&logoColor=white" alt="OWASP Contributor Badge" align="right" />
+
+**[OWASP Foundation (BLT-Next)](https://github.com/OWASP-BLT/BLT-Next)** > Contributing to the standard in open-source web application security.
+
+- 🛠️ **Role:** Contributor
+- 🚀 **Highlight:** Fixed critical WCAG (4.1.3) accessibility bugs and refactored mobile UI overlays for cross-theme compatibility.
+- 🔗 **Merged PR:** [#66: fix(a11y) form error messages](https://github.com/OWASP-BLT/BLT-Next/pull/66)
+---
+
+<h2 align="center">Statistics</h2>
+<div align="center">
+<a href="https://github.com/dhruv-gupta-dev">
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dhruv-gupta-dev&theme=nightowl&hide_border=true&fire=DD2727" height="180em" alt="dhruv-gupta-dev" />
+<br/>
+<!--   <img width="40%" align="center"  src="https://github-readme-stats.vercel.app/api/top-langs?username=TusharKesarwani&color=0e75b6&style=flat&theme=nightowl&hide_border=true" alt="TusharKesarwani" /> -->
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=dhruv-gupta-dev&theme=2077" height="180em" alt="dhruv-gupta-dev" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=dhruv-gupta-dev&theme=2077" height="180em" alt="dhruv-gupta-dev" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dhruv-gupta-dev&theme=2077" height="180em" alt="dhruv-gupta-dev" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=dhruv-gupta-dev&theme=2077" height="180em" alt="dhruv-gupta-dev" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dhruv-gupta-dev&theme=2077" height="180em" alt="dhruv-gupta-dev" />
+<br/>
+</div> 
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dhruv-gupta-dev&theme=tokyo-night" alt="Dhruv's Activity Graph" />
+</div>
+
+
+---
+
 
 ### 🐍 My Contribution Graph
 <div align="center">
   <img src="https://raw.githubusercontent.com/dhruv-gupta-dev/dhruv-gupta-dev/output/github-contribution-grid-snake-dark.svg" alt="Snake Graph" />
 </div>
 
----
-
-<h3 align="center">📊 My GitHub Stats</h3>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dhruv-gupta-dev&theme=tokyonight&hide_border=true" alt="Dhruv's Streak" />
-  
-  ---
-
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dhruv-gupta-dev&theme=tokyo-night" alt="Dhruv's Activity Graph" />
-</div>
-
----
-
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=dhruv-gupta-dev&label=PROFILE+VIEWS&style=for-the-badge&color=007BFF" alt="Profile Views" />
-</div>
-
-<br/>
-<div align="center">
-  <a href="https://www.linkedin.com/in/dhruvgupta-dev">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:heroicdhruv007@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
 </div>
