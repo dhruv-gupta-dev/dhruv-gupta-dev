@@ -17,7 +17,7 @@ I am a First-Year B.Tech CSE student passionate about building scalable web appl
 ---
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dhruvgupta-dev/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:heroicdhruv007@gmail.com)
-[![Twitter: dhruv-gupta-dev](https://img.shields.io/twitter/follow/dhruv-gupta-dev?style=social)](https://twitter.com/dhruv-gupta-dev)
+[![Twitter: dhruv-gupta-dev](https://img.shields.io/twitter/follow/dhruv-gupta-dev?style=social)](https://x.com/Dhruv_Gupta_Dev)
 [![GitHub: Dhruv Gupta](https://img.shields.io/github/followers/dhruv-gupta-dev?label=follow&style=social)](https://github.com/dhruv-gupta-dev/)
 ### 🛠️ Languages & Tools
 
