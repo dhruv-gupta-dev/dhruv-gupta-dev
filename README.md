@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Dhruv Gupta</h1>
+<h1 align="center">### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px" height="35px"> , I am Dhruv!!</h1>
 <h3 align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=CS+Undergrad;Full+Stack+Developer;Competitive+Programmer;Open+Source+Enthusiast" alt="Typing SVG" />
