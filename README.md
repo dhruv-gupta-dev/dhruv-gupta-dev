@@ -5,7 +5,7 @@
   </a>
 </h3>
 
-### 👨‍💻 CS Undergrad | Full Stack Developer | Competitive Programmer
+## 👨‍💻 CS Undergrad | Full Stack Developer | Competitive Programmer
 
 I am a First-Year B.Tech CSE student passionate about building scalable web applications and solving complex algorithmic problems.
 
@@ -14,12 +14,26 @@ I am a First-Year B.Tech CSE student passionate about building scalable web appl
 - ⚡ Fun fact: I reached **3-Star (1630)** on CodeChef in my first year!
 - 💬 Ask me about **C++, MERN Stack (Mongo, Express, React, Node), and Git**
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/dhruvgupta-dev)
----
+
+
+## Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dhruvgupta-dev/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:heroicdhruv007@gmail.com)
 [![Twitter: dhruv-gupta-dev](https://img.shields.io/twitter/follow/dhruv-gupta-dev?style=social)](https://x.com/Dhruv_Gupta_Dev)
 [![GitHub: Dhruv Gupta](https://img.shields.io/github/followers/dhruv-gupta-dev?label=follow&style=social)](https://github.com/dhruv-gupta-dev/)
-### 🛠️ Languages & Tools
+
+
+## My CP Profiles
+<a href="https://codeforces.com/profile/Dhruv-Gupta" target="_blank">
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="Codeforces" width="55" height="55" />
+</a>
+&nbsp;&nbsp;&nbsp;
+<a href="https://www.codechef.com/users/fast_moles_63" target="_blank">
+  <img src="https://img.icons8.com/ios_filled/512/FFFFFF/codechef.png" alt="CodeChef" width="55" height="55" />
+</a>
+
+
+## 🛠️ Languages & Tools
 
 | Category | Skills |
 | :--- | :--- |
@@ -27,8 +41,8 @@ I am a First-Year B.Tech CSE student passionate about building scalable web appl
 | **MERN Stack** | ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) |
 | **Hosting & Tools** | ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Render](https://img.shields.io/badge/Render-%2346E3B7.svg?style=for-the-badge&logo=render&logoColor=white) |
 
----
-### 🌍 Open Source Contributions
+
+## 🌍 Open Source Contributions
 
 <img src="https://img.shields.io/badge/Contributor-OWASP%20Foundation-E10101?style=for-the-badge&logo=owasp&logoColor=white" alt="OWASP Contributor Badge" align="right" />
 
