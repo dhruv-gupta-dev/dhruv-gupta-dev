@@ -37,6 +37,8 @@ I am a First-Year B.Tech CSE student passionate about building scalable web appl
 
 
 ![Profile views](https://komarev.com/ghpvc/?username=dhruv-gupta-dev&label=Profile%20views&color=0e75b6&style=flat)
+
+
 ## 🛠️ Languages & Tools
 
 
@@ -48,14 +50,9 @@ I am a First-Year B.Tech CSE student passionate about building scalable web appl
 | **Tools & Cloud** | <img src="https://badgen.net/badge/-/Git/F05032?icon=git&label=&scale=1.5" alt="Git"> <img src="https://badgen.net/badge/-/GitHub/181717?icon=github&label=&scale=1.5" alt="GitHub"> <img src="https://badgen.net/badge/-/VS%20Code/007ACC?icon=visualstudiocode&label=&scale=1.5" alt="Visual Studio Code"> <img src="https://badgen.net/badge/-/Postman/FF6C37?icon=postman&label=&scale=1.5" alt="Postman"> <img src="https://badgen.net/badge/-/Vercel/000000?icon=vercel&label=&scale=1.5" alt="Vercel"> <img src="https://badgen.net/badge/-/Render/46E3B7?icon=render&label=&scale=1.5" alt="Render"> |
 ## 🌍 Open Source Contributions
 
-<img src="https://img.shields.io/badge/Contributor-OWASP%20Foundation-E10101?style=for-the-badge&logo=owasp&logoColor=white" alt="OWASP Contributor Badge" align="right" />
-
-**[OWASP Foundation (BLT-Next)](https://github.com/OWASP-BLT/BLT-Next)** > Contributing to the standard in open-source web application security.
-
-- 🛠️ **Role:** Contributor
-- 🚀 **Highlight:** Fixed critical WCAG (4.1.3) accessibility bugs and refactored mobile UI overlays for cross-theme compatibility.
-- 🔗 **Merged PR:** [#66: fix(a11y) form error messages](https://github.com/OWASP-BLT/BLT-Next/pull/66)
----
+| Organization & Project | Contribution Details |
+| :--- | :--- |
+| **[OWASP Foundation](https://github.com/OWASP-BLT/BLT-Next)**<br>*(BLT-Next)*<br><br><img src="https://badgen.net/badge/Contributor/OWASP%20Foundation/E10101?icon=owasp&scale=1.5" alt="OWASP Contributor"> | **Mission:** *Contributing to the standard in open-source web application security.*<br><br>🛠️ **Role:** Contributor<br>🚀 **Impact:** Fixed critical WCAG (4.1.3) accessibility bugs and refactored mobile UI overlays for cross-theme compatibility.<br>🔗**Commit:** [View Source Code](https://github.com/OWASP-BLT/BLT-Next/commit/601a302e2161beb600988db4ec93a08519a2b9a2) |
 
 <h2 align="center">Statistics</h2>
 <div align="center">
