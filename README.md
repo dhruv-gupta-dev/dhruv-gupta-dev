@@ -32,7 +32,11 @@ I am a First-Year B.Tech CSE student passionate about building scalable web appl
   <img src="https://img.icons8.com/ios_filled/512/FFFFFF/codechef.png" alt="CodeChef" width="55" height="55" />
 </a>
 
+<br/>
+<br/>
 
+
+![Profile views](https://komarev.com/ghpvc/?username=dhruv-gupta-dev&label=Profile%20views&color=0e75b6&style=flat)
 ## 🛠️ Languages & Tools
 
 | Category | Skills |
@@ -79,6 +83,6 @@ I am a First-Year B.Tech CSE student passionate about building scalable web appl
   <img src="https://raw.githubusercontent.com/dhruv-gupta-dev/dhruv-gupta-dev/output/github-contribution-grid-snake-dark.svg" alt="Snake Graph" />
 </div>
 
-<div align="center">
+<!-- <div align="center">
   <img src="https://komarev.com/ghpvc/?username=dhruv-gupta-dev&label=PROFILE+VIEWS&style=for-the-badge&color=007BFF" alt="Profile Views" />
-</div>
+</div> -->
