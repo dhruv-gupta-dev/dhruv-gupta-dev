@@ -48,18 +48,18 @@ I am a First-Year B.Tech CSE student passionate about building scalable web appl
 | **Frontend** | <img src="https://badgen.net/badge/-/HTML5/E34F26?icon=html5&label=&scale=1.5" alt="HTML5"> <img src="https://badgen.net/badge/-/CSS3/1572B6?icon=css3&label=&scale=1.5" alt="CSS3"> <img src="https://badgen.net/badge/-/Tailwind%20CSS/38B2AC?icon=tailwindcss&label=&scale=1.5" alt="Tailwind CSS"> <img src="https://badgen.net/badge/-/React/20232A?icon=react&label=&scale=1.5" alt="React"> <img src="https://badgen.net/badge/-/Next.js/000000?icon=nextdotjs&label=&scale=1.5" alt="Next.js"> |
 | **Backend & DB** | <img src="https://badgen.net/badge/-/Node.js/8CC84B?icon=nodedotjs&label=&scale=1.5" alt="Node.js"> <img src="https://badgen.net/badge/-/Express.js/000000?icon=express&label=&scale=1.5" alt="Express.js"> <img src="https://badgen.net/badge/-/PostgreSQL/4169E1?icon=postgresql&label=&scale=1.5" alt="PostgreSQL"> <img src="https://badgen.net/badge/-/Prisma/2D3748?icon=prisma&label=&scale=1.5" alt="Prisma"> <img src="https://badgen.net/badge/-/MongoDB/4EA94B?icon=mongodb&label=&scale=1.5" alt="MongoDB"> <img src="https://badgen.net/badge/-/Mongoose/880000?icon=mongoose&label=&scale=1.5" alt="Mongoose"> |
 | **Tools & Cloud** | <img src="https://badgen.net/badge/-/Git/F05032?icon=git&label=&scale=1.5" alt="Git"> <img src="https://badgen.net/badge/-/GitHub/181717?icon=github&label=&scale=1.5" alt="GitHub"> <img src="https://badgen.net/badge/-/VS%20Code/007ACC?icon=visualstudiocode&label=&scale=1.5" alt="Visual Studio Code"> <img src="https://badgen.net/badge/-/Postman/FF6C37?icon=postman&label=&scale=1.5" alt="Postman"> <img src="https://badgen.net/badge/-/Vercel/000000?icon=vercel&label=&scale=1.5" alt="Vercel"> <img src="https://badgen.net/badge/-/Render/46E3B7?icon=render&label=&scale=1.5" alt="Render"> |
-## 🌍 Open Source Contributions
+<!-- ## 🌍 Open Source Contributions
 
 | Organization & Project | Contribution Details |
 | :--- | :--- |
 | **[OWASP Foundation](https://github.com/OWASP-BLT/BLT-Next)**<br>*(BLT-Next)*<br><br><img src="https://badgen.net/badge/Contributor/OWASP%20Foundation/E10101?icon=owasp&scale=1.5" alt="OWASP Contributor"> | **Mission:** *Contributing to the standard in open-source web application security.*<br><br>🛠️ **Role:** Contributor<br>🚀 **Impact:** Fixed critical WCAG (4.1.3) accessibility bugs and refactored mobile UI overlays for cross-theme compatibility.<br>🔗**Commit:** [View Source Code](https://github.com/OWASP-BLT/BLT-Next/commit/601a302e2161beb600988db4ec93a08519a2b9a2) |
-
+-->
 <h2 align="center">Statistics</h2>
 <div align="center">
 <a href="https://github.com/dhruv-gupta-dev">
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dhruv-gupta-dev&theme=nightowl&hide_border=true&fire=DD2727" height="180em" alt="dhruv-gupta-dev" />
 <br/>
-<!--   <img width="40%" align="center"  src="https://github-readme-stats.vercel.app/api/top-langs?username=TusharKesarwani&color=0e75b6&style=flat&theme=nightowl&hide_border=true" alt="TusharKesarwani" /> -->
+<!--   <img width="40%" align="center"  src="https://github-readme-stats.vercel.app/api/top-langs?username=TusharKesarwani&color=0e75b6&style=flat&theme=nightowl&hide_border=true" alt="Name" /> -->
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=dhruv-gupta-dev&theme=2077" height="180em" alt="dhruv-gupta-dev" />
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=dhruv-gupta-dev&theme=2077" height="180em" alt="dhruv-gupta-dev" />
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dhruv-gupta-dev&theme=2077" height="180em" alt="dhruv-gupta-dev" />
