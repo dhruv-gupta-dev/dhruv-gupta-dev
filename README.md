@@ -7,7 +7,7 @@
 
 ## 👨‍💻 CS Undergrad | Full Stack Developer | Competitive Programmer
 
-I am a First-Year B.Tech CSE student passionate about building scalable web applications and solving complex algorithmic problems.
+I am a Second-Year B.Tech CSE student passionate about building scalable web applications and solving complex algorithmic problems.
 
 - 🔭 I built **[Roast My GitHub](https://github.com/dhruv-gupta-dev/roast-my-github)** (An AI-powered profile analyzer & roaster)
 - 🌱 I’m currently learning **Advanced Data Structures & Algorithms**
